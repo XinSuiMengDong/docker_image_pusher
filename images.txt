@@ -1,9 +1,8 @@
 nginx
 xiaoyaliu/alist
-linuxserver/qbittorrent
-portainer/portainer
-p3terx/aria2-pro
-homeassistant/home-assistant
+--platform=linux/arm64 linuxserver/qbittorrent
+--platform=linux/arm64 p3terx/aria2-pro
+--platform=linux/arm64 homeassistant/home-assistant
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
