@@ -5,3 +5,4 @@
 --platform=linux/arm64 portainer/portainer-ce
 --platform=linux/arm64 diygod/rsshub
 --platform=linux/arm64 foamzou/melody
+--platform=linux/arm64 qdtoday/qd
