@@ -8,3 +8,5 @@
 --platform=linux/arm64 qdtoday/qd
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64 octoprint/octoprint
+--platform=linux/arm64 adguard/adguardhome
+--platform=linux/arm64 linuxserver/heimdall
