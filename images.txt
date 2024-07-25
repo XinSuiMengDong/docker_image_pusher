@@ -10,4 +10,4 @@
 --platform=linux/arm64 octoprint/octoprint
 --platform=linux/arm64 adguard/adguardhome
 --platform=linux/arm64 linuxserver/heimdall
-php:8.4.0-fpm-alpine-arm64
+8.4-rc-fpm-alpine
